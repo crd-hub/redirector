@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "appscode-domains"
+  },
+  "targets": {
+    "appscode-domains": {
+      "hosting": {
+        "hugo": [
+          "crdhub"
+        ]
+      }
+    }
+  }
+}
